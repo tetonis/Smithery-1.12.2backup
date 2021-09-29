@@ -5,10 +5,10 @@
     "description": "Become the blacksmith of your dreams, this mod enhances blacksmithing to be more realistic.",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "",
-    "updateUrl": "",
+    "url": "https://github.com/tetonis/Smithery",
+    "updateUrl": "https://github.com/tetonis/Smithery",
     "authorList": ["Tetonis"],
-    "credits": "Tetonis for making the entire mod, lanrose for dum!!! gab for dilo",
+    "credits": "Tetonis for making the entire mod.",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
