@@ -1,0 +1,11 @@
+item.pickaxe_mold.name=Pickaxe Mold
+item.pickaxe_mold_stone.name=Stone Pickaxe Mold
+item.pickaxe_head_stone.name=Stone Pickaxe Head
+item.clay_bucket.name=Unfired Clay Bucket
+item.clay_bucket_fired.name=Clay Bucket
+item.clay_bucket_fired_water.name=Clay Water Bucket
+item.clay_bucket_fired_lava.name=Clay Lava Bucket
+
+tile.mold_table.name=Mold Table
+
+itemGroup.Smithery=Smithery

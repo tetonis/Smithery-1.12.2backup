@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "mold=none": {"model": "smithery:mold_table_none"},
+    "mold=pickaxe": {"model": "smithery:mold_table_pickaxe"},
+    "mold=pickaxe_filled_stone": {"model": "smithery:mold_table_pickaxe_filled_stone"},
+    "mold=pickaxe_head_stone": {"model": "smithery:mold_table_pickaxe_head_stone"},
+    "mold=pickaxe_filled_stone_progress": {"model": "smithery:mold_table_pickaxe_filled_stone_progress"},
+    "mold=pickaxe_head_stone_progress": {"model": "smithery:mold_table_pickaxe_head_stone_progress"}
+  }
+}

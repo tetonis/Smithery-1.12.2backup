@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "c c",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:cobblestone"
+    },
+    "s": {
+      "item": "minecraft:stone_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "smithery:mold_table",
+    "count": 1
+  }
+}
